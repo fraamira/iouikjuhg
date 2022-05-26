@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D3811A79283FC3870086F36E /* MainPageLaurence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3811A78283FC3870086F36E /* MainPageLaurence.swift */; };
 		E936EE20283FA960002495AB /* iouikjuhgApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E936EE1F283FA960002495AB /* iouikjuhgApp.swift */; };
 		E936EE22283FA960002495AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E936EE21283FA960002495AB /* ContentView.swift */; };
 		E936EE24283FA960002495AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E936EE23283FA960002495AB /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D3811A78283FC3870086F36E /* MainPageLaurence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageLaurence.swift; sourceTree = "<group>"; };
 		E936EE1C283FA960002495AB /* iouikjuhg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iouikjuhg.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E936EE1F283FA960002495AB /* iouikjuhgApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iouikjuhgApp.swift; sourceTree = "<group>"; };
 		E936EE21283FA960002495AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E936EE2D283FA985002495AB /* iouikjuhg.entitlements */,
 				E936EE1F283FA960002495AB /* iouikjuhgApp.swift */,
 				E936EE21283FA960002495AB /* ContentView.swift */,
+				D3811A78283FC3870086F36E /* MainPageLaurence.swift */,
 				E936EE23283FA960002495AB /* Assets.xcassets */,
 				E936EE25283FA960002495AB /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 			files = (
 				E936EE22283FA960002495AB /* ContentView.swift in Sources */,
 				E936EE20283FA960002495AB /* iouikjuhgApp.swift in Sources */,
+				D3811A79283FC3870086F36E /* MainPageLaurence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

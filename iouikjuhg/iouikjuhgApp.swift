@@ -12,6 +12,7 @@ struct iouikjuhgApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            MainPageLaurence()
         }
     }
 }
